@@ -1,0 +1,2 @@
+# nano-uuid
+Shortest uuid
