@@ -15,7 +15,7 @@ npm install nano-uuid
 2. Create a UUID
 
 ```js
-const uuid = require('uuid');
+const uuid = require('nano-uuid');
 uuid.v4(); // => 6t23fgy3jbzeeinjna4uxb3gv
 ```
 

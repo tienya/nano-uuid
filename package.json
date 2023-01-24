@@ -1,6 +1,6 @@
 {
   "name": "nano-uuid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A db-friendly UUID generator, base36 encoded, 25 chars length.",
   "main": "index.js",
   "scripts": {
