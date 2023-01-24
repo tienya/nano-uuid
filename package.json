@@ -1,0 +1,32 @@
+{
+  "name": "nano-uuid",
+  "version": "1.0.0",
+  "description": "shortest uuid",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tienya/nano-uuid.git"
+  },
+  "keywords": [
+    "uuid",
+    "nano"
+  ],
+  "author": "hillgor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tienya/nano-uuid/issues"
+  },
+  "homepage": "https://github.com/tienya/nano-uuid#readme",
+  "dependencies": {
+    "base-x": "^4.0.0",
+    "install": "^0.13.0",
+    "npm": "^9.3.1",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
