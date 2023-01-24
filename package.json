@@ -1,7 +1,7 @@
 {
   "name": "nano-uuid",
   "version": "1.0.0",
-  "description": "shortest uuid",
+  "description": "A db-friendly UUID generator, base36 encoded, 25 chars length.",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/**/*.js"
